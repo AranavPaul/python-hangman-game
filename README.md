@@ -16,7 +16,7 @@ A classic command-line Hangman game built with Python, using modular code and a 
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/AranavPaul/python-hangman-game
-    cd python-hangman-game
+    cd your-repo-name
     ```
 
 2.  **Install the required libraries:**
